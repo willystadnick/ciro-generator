@@ -52,6 +52,7 @@
       'dos infernos',
       'eleitoreiro',
       'com 526 terabytes de encryption',
+      'da turma do Romero Jucá',
     ],
   ]
 
